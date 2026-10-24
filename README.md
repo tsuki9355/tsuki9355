@@ -1,6 +1,6 @@
 ## Hi there 🌙
 
-I'm [Angus](https://github.com/tsuki9355), an aspiring gameplay programmer based in Canada
+I'm [Angus](https://github.com/tsuki9355), an aspiring gameplay/software engineer based in Canada
 
 I design and build whatever I can imagine ^-^
 
